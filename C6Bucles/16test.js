@@ -1,0 +1,5 @@
+console.log(saludo("aleman"));   // "Guten Tag!"
+console.log(saludo("mandarin")); // "Ni Hao!"
+console.log(saludo("ingles"));    // "Hello!"
+console.log(saludo("frances"));   // "Hola!"
+console.log(saludo());            // "Hola!"

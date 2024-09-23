@@ -1,0 +1,5 @@
+console.log(colors("blue"));   // "This is blue"
+console.log(colors("red"));    // "This is red"
+console.log(colors("green"));  // "This is green"
+console.log(colors("orange"));  // "This is orange"
+console.log(colors("yellow"));  // "Color not found"
